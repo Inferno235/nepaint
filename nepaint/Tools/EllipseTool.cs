@@ -47,4 +47,8 @@ namespace nepaint.Tools
             _currentEllipse = null;
         }
     }
+    // комит
+    // rjvbvb
+
+    
 }
